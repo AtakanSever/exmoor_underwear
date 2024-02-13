@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462766812324",
+    "project_id": "exmoor-underwear",
+    "storage_bucket": "exmoor-underwear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462766812324:android:d4f0aff8682d152c160a31",
+        "android_client_info": {
+          "package_name": "com.example.exmoor_underwear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kvPnPVMzlsQTXX7X1Ykv2LHCokzDzd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
